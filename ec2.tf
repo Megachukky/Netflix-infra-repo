@@ -1,1 +1,4 @@
-# this file creates an ec2 instanceg
+# this file creates an ec2 instance
+resource "instance" "name" {
+  
+}
